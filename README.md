@@ -21,9 +21,9 @@ Effective Sampling: Fast Segmentation Using Robust Geometric Model Fitting
 
 If you find this work useful in your research, please consider citing:
 
-`@article{jia2014caffe,
-  Author = {Tennakoon, Ruwan and Sadri, Alireza and Hoseinnezhad, Reza and Bab-Hadiashar, Alireza},
-  Journal = {arXiv preprint arXiv:},
-  Title = {Effective Sampling: Fast Segmentation Using Robust Geometric Model Fitting},
-  Year = {2017}
-}`
+    @article{tennakoon2017,
+        Author = {Tennakoon, Ruwan and Sadri, Alireza and Hoseinnezhad, Reza and Bab-Hadiashar, Alireza},
+        Journal = {arXiv preprint arXiv:},
+        Title = {Effective Sampling: Fast Segmentation Using Robust Geometric Model Fitting},
+        Year = {2017}
+    }

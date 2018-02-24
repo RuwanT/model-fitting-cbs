@@ -3,6 +3,7 @@ Effective Sampling: Fast Segmentation Using Robust Geometric Model Fitting
 
 
 ## Running the code
+The code requires VLFeat installed in MATLAB: `http://www.vlfeat.org/install-matlab.html`
 
 ### Two-view motion segmentation
 * Download the [AdelaideRMF dataset](https://cs.adelaide.edu.au/users/hwong/doku.php?id=data) into `./data` folder 

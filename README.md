@@ -26,7 +26,7 @@ The code requires VLFeat installed in MATLAB: `http://www.vlfeat.org/install-mat
 
 ## Publication
 
-If you find this work useful in your research, please consider citing:
+If you find this work useful in your research, please consider [citing](https://arxiv.org/pdf/1705.09437.pdf):
 
     @article{tennakoon2018effective,
     title={Effective sampling: Fast segmentation using robust geometric model fitting},
